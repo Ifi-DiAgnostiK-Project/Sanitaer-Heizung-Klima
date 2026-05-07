@@ -1,31 +1,30 @@
 <!--
+author:    Hilke Domsch
+email:     hilke.domsch@gkz-ev.de
+date:      2025-07-23
+version:   0.1.2
 
-author:   Hilke Domsch
-email:    hilke.domsch@gkz-ev.de
-version:  0.1.2
-language: de
-narrator: Deutsch Male
+language:  de
+narrator:  Deutsch Male
 
-comment:  Löten und Schweißen
+comment:   Löten und Schweißen
 
-edit:     true
-date:     2025-07-23
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Sanitaer-Heizung-Klima/blob/main/materials/AuGSchutz_SHK.md
 
-logo:     ../assets/img/burning.jpg
-icon:     ../assets/img/Logo_234px.png
+logo:      ../assets/img/burning.jpg
+icon:      ../assets/img/Logo_234px.png
 
-link:     ./style.css
-import:   https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-          https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-          https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+link:      style.css
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
 
-title:    Arbeits- und Gesundheitsschutz SHK-Anlagenmechaniker
+title:     Arbeits- und Gesundheitsschutz SHK-Anlagenmechaniker
 
-tags:     SHK,
-          Arbeitsschutz,
-          Gesundheitsschutz,
-          Anlagenmechaniker
-
+tags:      SHK,
+           Arbeitsschutz,
+           Gesundheitsschutz,
+           Anlagenmechaniker
 -->
 
 # Arbeits- und Gesundheitsschutz beim Löten und Schweißen 🦺

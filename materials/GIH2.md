@@ -1,45 +1,42 @@
 <!--
+author:    Hilke Domsch
+email:     hilke.domsch@gkz-ev.de
+date:      2025-07-21
+version:   0.0.10
 
-author:   Hilke Domsch
+narrator:  Deutsch Male
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+comment:   Grundkurs Anlagenmechaniker 2
+attribute: Main Image By Roger McLassus Installateur Notdienst Wien - Own work,
+           CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=578502
 
-version:  0.0.10
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Sanitaer-Heizung-Klima/blob/main/materials/GIH2.md
 
-language: de
+logo:      https://upload.wikimedia.org/wikipedia/commons/0/05/2006-02-15_Piping.jpg
+icon:      ../assets/img/Logo_234px.png
 
-narrator: Deutsch Male
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
 
-comment:  Grundkurs Anlagenmechaniker 2
+title:     Grundkurs SHK-Anlagenmechaniker G-IH 2
 
-edit: true
-date: 2025-07-21
-logo: https://upload.wikimedia.org/wikipedia/commons/0/05/2006-02-15_Piping.jpg
-icon: ../assets/img/Logo_234px.png
-
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-
-title: Grundkurs SHK-Anlagenmechaniker G-IH 2
-
-tags:  SHK,
-       Grundkurs,
-       Anlagenmechaniker
+tags:      SHK,
+           Grundkurs,
+           Anlagenmechaniker
 
 @style
 .flex-container {
-    display: flex;[](https://liascript.github.io/LiveEditor/liascript/index.html?#5)
+    display: flex;
     flex-wrap: wrap; /* Allows the items to wrap as needed */
     align-items: stretch;
     gap: 20px; /* Adds both horizontal and vertical spacing between items */
 }
-
 .flex-child {
     flex: 1;
     margin-right: 20px; /* Adds space between the columns */
 }
-
 @media (max-width: 600px) {
     .flex-child {
         flex: 100%; /* Makes the child divs take up the full width on slim devices */
@@ -47,8 +44,6 @@ tags:  SHK,
     }
 }
 @end
-
-attribute: Main Image By Roger McLassus Installateur Notdienst Wien - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=578502
 -->
 
 # Grundkurs SHK-Anlagenmechaniker G - IH 2
