@@ -88,7 +88,7 @@ collection:
       </div>
 
 
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/sanitaer-heizung-klima/refs/heads/main/materials/AuGSchutz_SHK.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/sanitaer-heizung-klima/refs/heads/main/materials/GIH1.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/sanitaer-heizung-klima/refs/heads/main/materials/GIH2.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/sanitaer-heizung-klima/refs/heads/main/materials/GIH3.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/shk-arbeitsschutz-loeten-schweissen/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/shk-grundkurs-g-ih-1/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/shk-grundkurs-g-ih-2/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/shk-grundkurs-g-ih-3/refs/heads/main/README.md

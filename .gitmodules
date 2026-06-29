@@ -1,0 +1,12 @@
+[submodule "materials/shk-arbeitsschutz-loeten-schweissen"]
+	path = materials/shk-arbeitsschutz-loeten-schweissen
+	url = https://github.com/Ifi-DiAgnostiK-Project/shk-arbeitsschutz-loeten-schweissen.git
+[submodule "materials/shk-grundkurs-g-ih-1"]
+	path = materials/shk-grundkurs-g-ih-1
+	url = https://github.com/Ifi-DiAgnostiK-Project/shk-grundkurs-g-ih-1.git
+[submodule "materials/shk-grundkurs-g-ih-2"]
+	path = materials/shk-grundkurs-g-ih-2
+	url = https://github.com/Ifi-DiAgnostiK-Project/shk-grundkurs-g-ih-2.git
+[submodule "materials/shk-grundkurs-g-ih-3"]
+	path = materials/shk-grundkurs-g-ih-3
+	url = https://github.com/Ifi-DiAgnostiK-Project/shk-grundkurs-g-ih-3.git
